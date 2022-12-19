@@ -1,4 +1,5 @@
 ffmpeg 
 libsm6 
 libxext6
+libusb-1.0.0
 libgl1-mesa-glx
