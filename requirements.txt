@@ -5,7 +5,7 @@ keras-vggface==0.6
 keras_applications==1.0.8
 scikit-image
 matplotlib
-opencv-python-headless
+opencv-python-headless==4.5.3.56
 h5py==2.10.0
 mtcnn
 deepface
