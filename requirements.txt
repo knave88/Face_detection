@@ -12,3 +12,4 @@ deepface
 nodejs
 ipywidgets
 ipywebrtc
+scikit-learn
