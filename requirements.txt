@@ -1,5 +1,5 @@
 numpy
-tensorflow
+tensorflow==2.0.0
 keras==2.1.5
 keras-vggface
 keras_applications
