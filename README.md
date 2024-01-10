@@ -1,6 +1,6 @@
 # Face detection and verification
 
- in Binder (2022 updated): 
+ in Binder (update 2023: in progress): 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/knave88/Face_detection/main?filepath=POB_Lab14_Face_binder.ipynb)
 
  in Colab:
