@@ -1,6 +1,6 @@
 numpy
 tensorflow
-keras==2.12
+keras
 keras-vggface
 keras_applications
 scikit-image
